@@ -1,16 +1,13 @@
-## Hi there 👋
+## Haiii gaisss 🥸
 
-<!--
-**MaSalinasCruz26/MaSalinasCruz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is MaSalinasCruz typing
 
-Here are some ideas to get you started:
+I am currently working on learning to code
+<img src="https://live.staticflickr.com/3465/3717404335_90ed081ca8_b.jpg" alt="dog"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dogs are my favorite animals!
+
+I have 2 dogs
+
+It's like Agnes Carass said: 
+# "You can't change a dog's past, but you can rewrite the future."
